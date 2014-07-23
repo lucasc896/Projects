@@ -6,7 +6,7 @@ def calculate_pi(a=None,b=None,t=None):
 
 def gauss_legendre(n=0, a = 1.,	b = float(1./ma.sqrt(2)), t = float(1./4.), p = 1.):
 	
-	print "n=%d: %f" % (n, calculate_pi(a, b, t))
+	print "n=%d: %.20f" % (n, calculate_pi(a, b, t))
 
 	if n < 5:
 		out = {
