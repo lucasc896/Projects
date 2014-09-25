@@ -1,5 +1,21 @@
 import math as ma
 
+def splash(title = "program splash", author = "Chris Lucas"):
+    # can definitely clean up
+
+    length = len(title)
+    # if length is odd, add whitespace
+    if length%2:
+        title += " "
+        length = len(title)
+
+    width = length+16
+    print "=" * width
+    print "*%s*" % (" "*(width-2))
+    print "*%s%s%s*" % (" "*((width-2-length)/2), title, " "*((width-2-length)/2)) # change to format!
+    print "*%s*" % (" "*(width-2))
+    print "=" * width
+
 def is_prime(val = None):
 
     if val == 1:
@@ -29,3 +45,7 @@ def choice(text = "Do?", default = ""):
             return True
         elif r_in in ['n', 'N', 'no', 'No']:
             return False
+
+# for dev testing
+if __name__ == "__main__":
+    splash("helloxss")
