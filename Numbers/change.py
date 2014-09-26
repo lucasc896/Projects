@@ -1,6 +1,11 @@
 import utils
 import math as ma
 
+#+++++++++++++++++++++++++#
+# TO-DO
+# 1. add some error handling of user inputs
+#+++++++++++++++++++++++++#
+
 def coin_calc(val = 0.):
 
     # change val from pounds to pence for int calcs
@@ -43,4 +48,3 @@ if __name__ == "__main__":
     else:
         exit("Customer not paid enough money.")
 
-        
