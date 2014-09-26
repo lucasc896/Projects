@@ -10,11 +10,33 @@ def splash(title = "program splash", author = "Chris Lucas"):
         length = len(title)
 
     width = length+16
-    print "=" * width
+    # print ""
+    print "\n", "=" * width
     print "*%s*" % (" "*(width-2))
     print "*%s%s%s*" % (" "*((width-2-length)/2), title, " "*((width-2-length)/2)) # change to format!
     print "*%s*" % (" "*(width-2))
-    print "=" * width
+    print "=" * width, "\n"
+
+def get_val_of_type(val_type = "", text = ""):
+
+    ### Should change to use actual types
+    ### Also, is relying on typecasting a robust method?
+
+    if not val_type:
+        print "No value type passed."
+        return
+
+    # another check for invalid type
+
+    val = None
+    while not val:
+        try:
+            val = eval(val_type+"(raw_input(text))")
+        except ValueError:
+            print "Silly. Enter an %s." % val_type
+            val = None
+
+    return val
 
 def is_prime(val = None):
 
@@ -45,6 +67,17 @@ def choice(text = "Do?", default = ""):
             return True
         elif r_in in ['n', 'N', 'no', 'No']:
             return False
+
+def dict_printer(dicto = {}, indent = 1):
+
+    print "{ (%d keys)\n" % len(dicto)
+    for key in dicto:
+        print "\t"*indent, "'%s': " % key,
+        if dict == type(dicto[key]):
+            dict_printer(dicto[key], indent+1)
+        else:
+            print dicto[key]
+    print "\t"*indent, "}\n"
 
 # for dev testing
 if __name__ == "__main__":
