@@ -1,0 +1,1981 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ln",
+				"length"
+			],
+			[
+				"len",
+				"length"
+			],
+			[
+				"tile",
+				"tile_size"
+			],
+			[
+				"de",
+				"default"
+			],
+			[
+				"Que",
+				"QuestionAdmin"
+			],
+			[
+				"pms",
+				"pmssmOps"
+			],
+			[
+				"aT",
+				"aTlow"
+			],
+			[
+				"pmss",
+				"pmssm_bool"
+			],
+			[
+				"pm",
+				"pmssm"
+			],
+			[
+				"add",
+				"addBinnedStuff"
+			],
+			[
+				"pmssm",
+				"pmssmOps"
+			],
+			[
+				"some",
+				"some_pmssm_pset"
+			],
+			[
+				"this",
+				"this_op"
+			],
+			[
+				"cut",
+				"cutTree"
+			],
+			[
+				"H",
+				"H_event_weight"
+			],
+			[
+				"H_",
+				"H_event_noweight"
+			],
+			[
+				"xH",
+				"xHigh_"
+			],
+			[
+				"xLo",
+				"xLow_"
+			],
+			[
+				"xbin",
+				"xBins_"
+			],
+			[
+				"syst",
+				"syst_vals"
+			],
+			[
+				"tot",
+				"total_syst_hist"
+			],
+			[
+				"new_",
+				"new_vals"
+			],
+			[
+				"vals",
+				"vals_array"
+			],
+			[
+				"smo",
+				"smooth_eff_err_diff"
+			],
+			[
+				"smoot",
+				"smooth_eff_err"
+			],
+			[
+				"tmp",
+				"tmp_err"
+			],
+			[
+				"tmp_",
+				"tmp_val"
+			],
+			[
+				"denom",
+				"denom_val"
+			],
+			[
+				"nom",
+				"nom_val"
+			],
+			[
+				"cutsjes",
+				"cutsJESPlusHist_noweight"
+			],
+			[
+				"cuts",
+				"cutsHist_noweight"
+			],
+			[
+				"_yie",
+				"_yieldPlots_noweight"
+			],
+			[
+				"_ye",
+				"_yieldPlots_noweight"
+			],
+			[
+				"nocuts",
+				"nocuts_noweight"
+			],
+			[
+				"cent",
+				"central_noweight"
+			],
+			[
+				"up",
+				"up_noweight"
+			],
+			[
+				"ma",
+				"ma"
+			],
+			[
+				"_no",
+				"_nomerr"
+			],
+			[
+				"smoo",
+				"smooth_eff"
+			],
+			[
+				"total",
+				"total_syst_errhist"
+			],
+			[
+				"his",
+				"hist_err"
+			],
+			[
+				"mass_",
+				"mass_err"
+			],
+			[
+				"GetBin",
+				"GetBinContent"
+			],
+			[
+				"s_",
+				"s_hist"
+			],
+			[
+				"ave",
+				"ave_val"
+			],
+			[
+				"GetB",
+				"GetBinContent"
+			],
+			[
+				"GetNbin",
+				"GetNbinsY"
+			],
+			[
+				"SetB",
+				"SetBinContent"
+			],
+			[
+				"Get",
+				"GetBinContent"
+			],
+			[
+				"eff",
+				"eff_err"
+			],
+			[
+				"deno",
+				"denom_err"
+			],
+			[
+				"deu",
+				"debug_err"
+			],
+			[
+				"comp",
+				"compare_1d"
+			],
+			[
+				"out",
+				"out_string"
+			],
+			[
+				"com",
+				"comp_2d"
+			],
+			[
+				"effs",
+				"effs_2"
+			],
+			[
+				"mode",
+				"model1"
+			],
+			[
+				"inf",
+				"infiles_2"
+			],
+			[
+				"model",
+				"model1"
+			],
+			[
+				"dic",
+				"dict_printer"
+			],
+			[
+				"HTb",
+				"HTBins"
+			],
+			[
+				"gen",
+				"genPartonHT_weight"
+			],
+			[
+				"st",
+				"stopVect_weight"
+			],
+			[
+				"Adde",
+				"AddWeightFilter"
+			],
+			[
+				"min",
+				"minVal"
+			],
+			[
+				"cen",
+				"centralRootFile73"
+			],
+			[
+				"file",
+				"file73"
+			],
+			[
+				"ybin",
+				"ybinval"
+			],
+			[
+				"compare_1d_",
+				"compare_1d_dm20"
+			],
+			[
+				"sit",
+				"sitv_ratio"
+			],
+			[
+				"test",
+				"test_name"
+			],
+			[
+				"root",
+				"rootFiles"
+			],
+			[
+				"se",
+				"sele"
+			],
+			[
+				"dead",
+				"deadECAL_MC"
+			],
+			[
+				"Dead",
+				"DeadEcalCutData"
+			],
+			[
+				"numC",
+				"numComPhotons"
+			],
+			[
+				"numc",
+				"numComElectrons"
+			],
+			[
+				"pdf_",
+				"pdf_hist"
+			],
+			[
+				"hi",
+				"hist_val"
+			],
+			[
+				"sy",
+				"syst_hist"
+			],
+			[
+				"pdf",
+				"pdf0"
+			],
+			[
+				"sta",
+				"stat_string"
+			],
+			[
+				"to",
+				"total_syst_txt"
+			],
+			[
+				"bin",
+				"bin_vals"
+			],
+			[
+				"rank",
+				"ranked_dict"
+			],
+			[
+				"hist",
+				"hist_dict"
+			],
+			[
+				"cy",
+				"cut_syst"
+			],
+			[
+				"fla",
+				"flat_val"
+			],
+			[
+				"try",
+				"try	Try/Except/Else"
+			],
+			[
+				"sys",
+				"systTests"
+			],
+			[
+				"tot_m",
+				"tot_min"
+			],
+			[
+				"Ge",
+				"GetEntries"
+			],
+			[
+				"lep",
+				"leptVeto"
+			],
+			[
+				"ne",
+				"next_attach"
+			],
+			[
+				"par",
+				"paramListTcds_"
+			],
+			[
+				"paramL",
+				"paramListTCDS_"
+			],
+			[
+				"T2bw",
+				"T2bw_0p25"
+			],
+			[
+				"flat_",
+				"flat_systs"
+			],
+			[
+				"flat",
+				"flat_val"
+			],
+			[
+				"compa",
+				"compare_1d"
+			],
+			[
+				"bM",
+				"bMulti"
+			],
+			[
+				"num",
+				"numComMuons"
+			],
+			[
+				"ct",
+				"cutTreeMC"
+			],
+			[
+				"JET",
+				"JetEMFCut"
+			],
+			[
+				"inv",
+				"invertHist"
+			],
+			[
+				"event",
+				"event_weight"
+			],
+			[
+				"weig",
+				"weightVal"
+			],
+			[
+				"val",
+				"val_str"
+			],
+			[
+				"GetN",
+				"GetNbinsX"
+			],
+			[
+				"new",
+				"new_ybin"
+			],
+			[
+				"my_s",
+				"my_syst_hists"
+			],
+			[
+				"p",
+				"pdf"
+			],
+			[
+				"jes",
+				"jesPlusRootFile100"
+			],
+			[
+				"ef",
+				"eff_err"
+			],
+			[
+				"_nom",
+				"_nom"
+			],
+			[
+				"_denom",
+				"_denomerr"
+			],
+			[
+				"denom_",
+				"denom_err"
+			],
+			[
+				"nom_",
+				"nom_val"
+			],
+			[
+				"eff_",
+				"eff_val"
+			],
+			[
+				"_n",
+				"_nBins"
+			],
+			[
+				"make",
+				"makeErrorHist"
+			],
+			[
+				"bMu",
+				"bMulti"
+			],
+			[
+				"mas",
+				"mass_val"
+			],
+			[
+				"err_",
+				"err_low"
+			],
+			[
+				"mys",
+				"my_systMap"
+			],
+			[
+				"sett",
+				"settings"
+			],
+			[
+				"LeptonVet",
+				"LeptonVeto"
+			],
+			[
+				"Set",
+				"SetBinContent"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "utils.py",
+			"settings":
+			{
+				"buffer_size": 1144,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "mortgage.py",
+			"settings":
+			{
+				"buffer_size": 66,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 47.0,
+		"selected_items":
+		[
+			[
+				"quic",
+				"Git: Quick Commit"
+			],
+			[
+				"add",
+				"Git: Add Current File"
+			],
+			[
+				"quick",
+				"Git: Quick Commit"
+			],
+			[
+				"com",
+				"Git: Quick Commit"
+			],
+			[
+				"sft",
+				"SFTP: Browse Server…"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"git",
+				"Git: Diff Tool Current File"
+			],
+			[
+				"env",
+				"Snippet: #!/usr/bin/env"
+			],
+			[
+				"snip",
+				"Snippet: #!/usr/bin/env"
+			],
+			[
+				"sftp",
+				"SFTP: Browse Server…"
+			],
+			[
+				"diff",
+				"Git: Diff Current File"
+			],
+			[
+				"ft",
+				"SFTP: Browse Server…"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"c++",
+				"Set Syntax: C++"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"sn",
+				"Snippet: New Class"
+			],
+			[
+				"snipp",
+				"Snippet: #!/usr/bin/env"
+			],
+			[
+				"Snippet: ",
+				"Snippet: stdcout"
+			],
+			[
+				"prett",
+				"Pretty JSON: Reformat (Pretty Print) JSON"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"python",
+				"Set Syntax: Python"
+			],
+			[
+				"push",
+				"Git: Push"
+			],
+			[
+				"status",
+				"Git: Status"
+			],
+			[
+				"qu",
+				"Git: Quick Commit"
+			],
+			[
+				"qic",
+				"Git: Quick Commit"
+			],
+			[
+				"qui",
+				"Git: Quick Commit"
+			],
+			[
+				"set python",
+				"Set Syntax: Python"
+			],
+			[
+				"di",
+				"Git: Diff Current File"
+			],
+			[
+				"confi",
+				"Package Control: Create Package File"
+			],
+			[
+				"git st",
+				"Git: Status"
+			],
+			[
+				"commit",
+				"Git: Commit"
+			],
+			[
+				"stat",
+				"View: Toggle Status Bar"
+			],
+			[
+				"quci",
+				"Git: Quick Commit"
+			],
+			[
+				"quc",
+				"Git: Quick Commit"
+			],
+			[
+				"lint",
+				"SublimeLinter: Lint Current File"
+			],
+			[
+				"paca",
+				"Package Control: List Packages"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"set htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"set java",
+				"Set Syntax: Java"
+			],
+			[
+				"git stat",
+				"Git: Status"
+			],
+			[
+				"git comm",
+				"Git: Quick Commit"
+			],
+			[
+				"git add",
+				"Git: Add Current File"
+			],
+			[
+				"ftp",
+				"SFTP: Browse Server…"
+			],
+			[
+				"sf",
+				"SFTP: Browse Server…"
+			],
+			[
+				"edit",
+				"SFTP: Edit Server…"
+			],
+			[
+				"edit s",
+				"SFTP: Edit Server…"
+			],
+			[
+				"synt pyth",
+				"Set Syntax: Python"
+			],
+			[
+				"git ps",
+				"Git: Push"
+			],
+			[
+				"gitquic",
+				"Git: Quick Commit"
+			],
+			[
+				"gitdif",
+				"Git: Diff Current File"
+			],
+			[
+				"set json",
+				"Set Syntax: JSON"
+			],
+			[
+				"brow",
+				"SFTP: Browse Server…"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"snipptry",
+				"Snippet: Try/Except"
+			],
+			[
+				"SFT",
+				"SFTP: Browse Server…"
+			],
+			[
+				"linter",
+				"SublimeLinter: Background Linting"
+			],
+			[
+				"gitdiff",
+				"Git: Diff Current File"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"sfp",
+				"SFTP: Browse Remote…"
+			],
+			[
+				"sd",
+				"SFTP: Delete Server…"
+			],
+			[
+				"ope",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"s",
+				"SFTP: Browse Server…"
+			],
+			[
+				"",
+				"About"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 132.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/chrislucas/programming/Projects/Numbers/mo",
+		"/Users/chrislucas/programming/Projects/Numbers/utils.py",
+		"/Users/chrislucas/programming/Projects/Numbers/mortgage_calc.py",
+		"/Users/chrislucas/programming/Projects/Numbers/floor_tiles_cost.py",
+		"/Users/chrislucas/programming/Projects/Numbers/new_prime.py",
+		"/Users/chrislucas/programming/Projects/Numbers/prime_factor.py",
+		"/Users/chrislucas/programming/django/mysite/polls/admin.py",
+		"/Users/chrislucas/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/chrislucas/SUSY/SignalScans/effStudies/SignalSystematics/smooth_algo_test.py",
+		"/Users/chrislucas/SUSY/SignalScans/effStudies/SignalSystematics/model_compare.py",
+		"/Users/chrislucas/SUSY/SignalScans/effStudies/SignalSystematics/model_compare.pdf",
+		"/Users/chrislucas/tunnels/lxtunnel.conf",
+		"/Users/chrislucas/tunnels/proxy.cern.pac",
+		"/Users/chrislucas/SUSY/SignalScans/effStudies/SignalSystematics/makeEffMap.py",
+		"/Users/chrislucas/SUSY/LHCP2014Template 2/eprint.tex",
+		"/Users/chrislucas/SUSY/LHCP2014Template 2/econfmacros.tex",
+		"/private/tmp/cat_check.py",
+		"/Users/chrislucas/Desktop/Configuration.cc",
+		"/Users/chrislucas/Desktop/Configuration.hh",
+		"/Users/chrislucas/SUSY/SignalScans/effStudies/SignalSystematics/test_my_new_shit.py",
+		"/var/folders/pb/ttk196w94hb2r4htj5r5djjc0000gn/T/sublime-sftp-browse-1404834758/iclx/vols/ssd00/cms/clucas/susy_builds/SUSYv0/SUSYSignalScan/python/runSignalScan.py",
+		"/Users/chrislucas/.ssh/config",
+		"/Users/chrislucas/tunnels/dot904.conf",
+		"/Users/chrislucas/tunnels/dot904",
+		"/var/folders/pb/ttk196w94hb2r4htj5r5djjc0000gn/T/sublime-sftp-browse-1407762109/iclx/vols/ssd00/cms/clucas/susy_stats/ra1stats/inputData/data2012dev/take15.py",
+		"/var/folders/pb/ttk196w94hb2r4htj5r5djjc0000gn/T/sublime-sftp-browse-1407760826/iclx/vols/ssd00/cms/clucas/susy_stats/ra1stats/inputData/data2012dev/take15_semiBlind_nHadFromBlueFit.py",
+		"/var/folders/pb/ttk196w94hb2r4htj5r5djjc0000gn/T/sublime-sftp-browse-1407760787/iclx/vols/ssd00/cms/clucas/susy_stats/ra1stats/inputData/data2012dev/take14_semiBlind_nHadFromBlueFit.py",
+		"/var/folders/pb/ttk196w94hb2r4htj5r5djjc0000gn/T/sublime-sftp-browse-1405332130/iclx/vols/ssd00/cms/clucas/susy_builds/SUSYv0/SUSYSignalScan/python/SUSYSignalScan/plottingStuff_cfg.py",
+		"/var/folders/pb/ttk196w94hb2r4htj5r5djjc0000gn/T/sublime-sftp-browse-1407489099/iclx/vols/ssd00/cms/clucas/susy_builds/SUSYv0/hadronic/python/hadronic/commonIncludes.py",
+		"/var/folders/pb/ttk196w94hb2r4htj5r5djjc0000gn/T/sublime-sftp-browse-1407487421/iclx/vols/ssd00/cms/clucas/susy_builds/SUSYv0/hadronic/python/Mark_Tutorial_Code/batchGolden_tutorial.py",
+		"/private/tmp/AK5Calo_T2tt_had_2012_73.7_bt0.0_MChi-1.0_SMS_T2tt_mStop_500to650_mLSP_0to225_8TeV_Pythia6Z_Summer12_START52_V9_FSIM_v1_AODSIM_IC_1.log",
+		"/private/tmp/AK5Calo_Had_SMS_73_73_36_SMS_T2tt_mStop_500to650_mLSP_0to225_8TeV_Pythia6Z_Summer12_START52_V9_FSIM_v1_AODSIM_IC_1.log",
+		"/Users/chrislucas/programming/Projects/Numbers/fib.py",
+		"/Users/chrislucas/programming/Projects/Numbers/find_pi.py",
+		"/var/folders/pb/ttk196w94hb2r4htj5r5djjc0000gn/T/sublime-sftp-browse-1406824883/iclx/vols/ssd00/cms/clucas/susy_builds/SUSYv0/hadronic/python/Mark_Tutorial_Code/batchGolden_tutorial.py",
+		"/var/folders/pb/ttk196w94hb2r4htj5r5djjc0000gn/T/sublime-sftp-browse-1406824869/iclx/vols/ssd00/cms/clucas/susy_builds/SUSYv0/hadronic/python/Mark_Tutorial_Code/Run_MC.py",
+		"/var/folders/pb/ttk196w94hb2r4htj5r5djjc0000gn/T/sublime-sftp-browse-1406573407/iclx/vols/ssd00/cms/clucas/susy_builds/SUSYv0/framework/include/Filters.hh",
+		"/Users/chrislucas/SUSY/SignalScans/effStudies/SignalSystematics/shift_yossof.py",
+		"/var/folders/pb/ttk196w94hb2r4htj5r5djjc0000gn/T/sublime-sftp-browse-1405331926/iclx/vols/ssd00/cms/clucas/susy_builds/SUSYv0/SUSYSignalScan/python/signalPSets.py",
+		"/Users/chrislucas/SUSY/SignalScans/effStudies/SignalSystematics/poisson_test.py",
+		"/var/folders/pb/ttk196w94hb2r4htj5r5djjc0000gn/T/sublime-sftp-browse-1403253327/iclx/vols/ssd00/cms/clucas/susy_builds/SUSYv0/SUSYSignalScan/src/common/smsPlottingOps.cc",
+		"/var/folders/pb/ttk196w94hb2r4htj5r5djjc0000gn/T/sublime-sftp-browse-1404395174/iclx/vols/ssd00/cms/clucas/susy_builds/SUSYv0/SUSYSignalScan/python/chadd.py",
+		"/var/folders/pb/ttk196w94hb2r4htj5r5djjc0000gn/T/sublime-sftp-browse-1399553175/iclx/vols/ssd00/cms/clucas/susy_builds/SUSYv0/SUSYSignalScan/python/signalPSets.py",
+		"/var/folders/pb/ttk196w94hb2r4htj5r5djjc0000gn/T/sublime-sftp-browse-1404384154/iclx/vols/ssd00/cms/clucas/susy_builds/SUSYv0/SUSYSignalScan/python/SUSYSignalScan/plottingStuff_cfg.py",
+		"/var/folders/pb/ttk196w94hb2r4htj5r5djjc0000gn/T/sublime-sftp-browse-1399907671/iclx/vols/ssd00/cms/clucas/susy_builds/SUSYv0/SUSYSignalScan/python/runSignalScan.py",
+		"/Users/chrislucas/Documents/code.txt",
+		"/Users/chrislucas/SUSY/Parked/analysis_note/docs/notes/tdr",
+		"/Users/chrislucas/SUSY/Parked/analysis_note/docs/notes/AN-13-000/trunk/symbols.tex",
+		"/Users/chrislucas/SUSY/Parked/analysis_note/docs/notes/AN-13-000/trunk/mydefs.tex",
+		"/Users/chrislucas/SUSY/Parked/analysis_note/docs/notes/AN-13-000/trunk/samples.tex",
+		"/Users/chrislucas/SUSY/Parked/analysis_note/docs/notes/AN-13-000/trunk/signal.tex",
+		"/Users/chrislucas/SUSY/Parked/analysis_note/docs/notes/AN-13-000/trunk/AN-13-000.tex",
+		"/var/folders/pb/ttk196w94hb2r4htj5r5djjc0000gn/T/sublime-sftp-browse-1401270607/iclx/vols/ssd00/cms/clucas/susy_builds/SUSYv0/SUSYSignalScan/python/SUSYSignalScan/plottingStuff_cfg.py",
+		"/Users/chrislucas/SUSY/Parked/analysis_note/docs/notes/AN-13-000/trunk/app_signal.tex",
+		"/Users/chrislucas/SUSY/AnalysisCode/RA1_Utilities/pu_vtx_compare.py",
+		"/Users/chrislucas/SUSY/charmStudy/ANALYSIS/pyRootUtils/generalUtils.py",
+		"/Users/chrislucas/SUSY/Parked/analysis_note/docs/notes/AN-13-000/trunk/samples.",
+		"/Users/chrislucas/SUSY/Parked/analysis_note/docs/notes/AN-13-000/trunk/selection.tex",
+		"/Users/chrislucas/SUSY/Parked/systs/numparton_t2cc_syst.txt",
+		"/Users/chrislucas/Desktop/No Gym No Problem Workout/my_log.txt",
+		"/var/folders/pb/ttk196w94hb2r4htj5r5djjc0000gn/T/sublime-sftp-browse-1399551531/iclx/vols/ssd00/cms/clucas/susy_builds/SUSYv0/SUSYSignalScan/python/runSignalScan.py",
+		"/Users/chrislucas/Documents/Teaching_ThirdYear/Assignments/Andreas_Lloyd/Ex_2/Andreas Lloyd Exercise 3 Code/Exercise 3 particle detector.c",
+		"/var/folders/pb/ttk196w94hb2r4htj5r5djjc0000gn/T/sublime-sftp-browse-1395928458/iclx/vols/cms02/clucas/susy_builds/SUSYv0/SUSYSignalScan/python/signalPSets.py",
+		"/var/folders/pb/ttk196w94hb2r4htj5r5djjc0000gn/T/sublime-sftp-browse-1396865800/iclx/vols/cms02/clucas/susy_builds/SUSYv0/framework/include/Filters.hh",
+		"/Users/chrislucas/bluegrass.py",
+		"/var/folders/pb/ttk196w94hb2r4htj5r5djjc0000gn/T/sublime-sftp-browse-1396875529/iclx/vols/cms02/clucas/susy_builds/SUSYv0/SUSYSignalScan/src/common/smsPlottingOps.cc",
+		"/var/folders/pb/ttk196w94hb2r4htj5r5djjc0000gn/T/sublime-sftp-browse-1395932189/iclx/vols/cms02/clucas/susy_builds/SUSYv0/SUSYSignalScan/python/SUSYSignalScan/plottingStuff_cfg.py",
+		"/var/folders/pb/ttk196w94hb2r4htj5r5djjc0000gn/T/sublime-sftp-browse-1395138981/iclx/vols/cms02/clucas/susy_builds/SUSYv0/SUSYSignalScan/python/runSignalScan.py",
+		"/Users/chrislucas/Library/Application Support/Sublime Text 2/Packages/User/LaTeXTools.sublime-settings",
+		"/Users/chrislucas/SUSY/Parked/analysis_note/docs/notes/AN-13-000/trunk/AN-13-000.bib",
+		"/Users/chrislucas/Documents/Teaching_ThirdYear/Assignments/Andreas_Lloyd/Ex_2/Andreas Lloyd Exercise 3 Code/Exercise 3 analytic method.c",
+		"/Users/chrislucas/Documents/Teaching_ThirdYear/Assignments/Ben_Deeley/Ex_2/Ex3_Programs/Ex3_Prob2_Simulator.c",
+		"/Users/chrislucas/Documents/Teaching_ThirdYear/Assignments/Ben_Deeley/Ex_2/Ex3_Programs/Ex3_Prob1_Timescale.c",
+		"/Users/chrislucas/Documents/Teaching_ThirdYear/Assignments/Alexander_Tallon/Ex_2/Hand in Alex Tallon/analytical_sine.c",
+		"/Users/chrislucas/Documents/Teaching_ThirdYear/Assignments/Alexander_Tallon/Ex_2/Hand in Alex Tallon/decaying_particles_simulation.c",
+		"/Users/chrislucas/Documents/Teaching_ThirdYear/Assignments/Ben_Partridge/Ex_2/Benjamin Partridge - Exercise 3 Code/Exercise 3 - Task 1 - Reject Accept.cbp",
+		"/Users/chrislucas/SUSY/Parked/analysis_note/docs/utils/trunk/tdr",
+		"/Users/chrislucas/SUSY/AnalysisCode/generalUtils.py",
+		"/var/folders/pb/ttk196w94hb2r4htj5r5djjc0000gn/T/sublime-sftp-browse-1397574709/iclx/vols/ssd00/cms/clucas/susy_builds/SUSYv0/hadronic/python/Mark_Tutorial_Code/batchGolden_tutorial.py",
+		"/var/folders/pb/ttk196w94hb2r4htj5r5djjc0000gn/T/sublime-sftp-browse-1397641893/iclx/vols/cms02/clucas/susy_builds/SUSYv0/hadronic/python/hadronic/commonIncludes.py",
+		"/Users/chrislucas/SUSY/Parked/analysis_note/docs/notes/AN-13-000/trunk/backgrounds.tex",
+		"/Users/chrislucas/SUSY/Parked/analysis_note/docs/notes/tmp/AN-13-000_temp.log",
+		"/Users/chrislucas/SUSY/SignalScans/effStudies/SignalSystematics/JESonT2cc.py",
+		"/Users/chrislucas/SUSY/SignalScans/effStudies/SignalSystematics/JESonAllSMS.py",
+		"/Users/chrislucas/Documents/Teaching_ThirdYear/Assignments/Ben_Partridge/Ex_1/Benjamin Partridge - Exercise 2/Exercise 2 - Task 1.1/main.c",
+		"/Users/chrislucas/Documents/Teaching_ThirdYear/Assignments/Ben_Partridge/Ex_1/Benjamin Partridge - Exercise 2/Exercise 2 - Physics Problem 2.1/main.c",
+		"/Users/chrislucas/SUSY/charmStudy/ANALYSIS/anaPlots/hadd_xsecStudy.py",
+		"/var/folders/pb/ttk196w94hb2r4htj5r5djjc0000gn/T/sublime-sftp-browse-1382292175/cmslpc/uscms_data/d3/clucas/SUSYv7/charmStudy/python/runAnalysis.py",
+		"/var/folders/pb/ttk196w94hb2r4htj5r5djjc0000gn/T/sublime-sftp-browse-1389705046/cmslpc/uscms_data/d3/clucas/SUSYv7/charmStudy/python/samples.py",
+		"/var/folders/pb/ttk196w94hb2r4htj5r5djjc0000gn/T/sublime-sftp-browse-1382292164/cmslpc/uscms_data/d3/clucas/SUSYv7/charmStudy/python/batchGolden.py",
+		"/var/folders/pb/ttk196w94hb2r4htj5r5djjc0000gn/T/sublime-sftp-browse-1382291886/cmslpc/uscms_data/d3/clucas/SUSYv7/charmStudy/include/isoTrackPlots.hh",
+		"/var/folders/pb/ttk196w94hb2r4htj5r5djjc0000gn/T/sublime-sftp-browse-1386686522/cmslpc/uscms_data/d3/clucas/SUSYvLegacy/onelepton/include/LeptonicOps.hh",
+		"/var/folders/pb/ttk196w94hb2r4htj5r5djjc0000gn/T/sublime-sftp-browse-1382540196/cmslpc/uscms_data/d3/clucas/SUSYv7/onelepton/src/common/LeptonicOps.cc",
+		"/var/folders/pb/ttk196w94hb2r4htj5r5djjc0000gn/T/sublime-sftp-browse-1386941617/cmslpc/uscms_data/d3/clucas/SUSYv7/framework/include/Filters.hh",
+		"/var/folders/pb/ttk196w94hb2r4htj5r5djjc0000gn/T/sublime-sftp-browse-1386068270/cmslpc/uscms_data/d3/clucas/SUSYv7/charmStudy/src/common/analysisPlots.cc",
+		"/var/folders/pb/ttk196w94hb2r4htj5r5djjc0000gn/T/sublime-sftp-browse-1387238400/cmslpc/uscms_data/d3/clucas/SUSYvLegacy/hadronic/python/Mark_Tutorial_Code/sample_lists_new.py",
+		"/var/folders/pb/ttk196w94hb2r4htj5r5djjc0000gn/T/sublime-sftp-browse-1387456989/cmslpc/uscms_data/d3/clucas/SUSYvLegacy/hadronic/python/Mark_Tutorial_Code/addprocesses.py",
+		"/var/folders/pb/ttk196w94hb2r4htj5r5djjc0000gn/T/sublime-sftp-browse-1387225945/cmslpc/uscms_data/d3/clucas/SUSYv7/charmStudy/python/analyse_jobfiles.py",
+		"/Users/chrislucas/SUSY/Parked/xSec_study/xs.py",
+		"/Users/chrislucas/SUSY/charmStudy/ANALYSIS/anaPlots/makeAnaPlots.py",
+		"/Users/chrislucas/SUSY/SignalScans/effStudies/SignalSystematics/plottingstuff.py",
+		"/Users/chrislucas/SUSY/charmStudy/ANALYSIS/anaPlots/test.py",
+		"/var/folders/pb/ttk196w94hb2r4htj5r5djjc0000gn/T/sublime-sftp-browse-1390311527/cmslpc/uscms_data/d3/clucas/SUSYv7/framework/src/common/CommonOps.cc",
+		"/var/folders/pb/ttk196w94hb2r4htj5r5djjc0000gn/T/sublime-sftp-browse-1390311816/cmslpc/uscms_data/d3/clucas/SUSYv7/framework/include/CommonOps.hh",
+		"/var/folders/pb/ttk196w94hb2r4htj5r5djjc0000gn/T/sublime-sftp-browse-1382351054/cmslpc/uscms_data/d3/clucas/SUSYv7/charmStudy/python/samples.py",
+		"/Users/chrislucas/SUSY/charmStudy/ANALYSIS/anaPlots/utils/multiPlot.py",
+		"/Users/chrislucas/SUSY/charmStudy/ANALYSIS/ICFCode/src/common/analysisPlots.cc",
+		"/var/folders/pb/ttk196w94hb2r4htj5r5djjc0000gn/T/sublime-sftp-browse-1385923016/cmslpc/uscms_data/d3/clucas/SUSYvLegacy/hadronic/python/Mark_Tutorial_Code/Run_MC.py",
+		"/var/folders/pb/ttk196w94hb2r4htj5r5djjc0000gn/T/sublime-sftp-browse-1386686356/cmslpc/uscms_data/d3/clucas/SUSYvLegacy/onelepton/src/common/LeptonicOps.cc",
+		"/Users/chrislucas/Downloads/CexControl-0.4.12/CexControl.py",
+		"/Users/chrislucas/Documents/phys_talk_bingo.txt",
+		"/Users/chrislucas/Documents/expenses/EXPENSES - CMS UK 8:9:10th Jan",
+		"/var/folders/pb/ttk196w94hb2r4htj5r5djjc0000gn/T/sublime-sftp-browse-1389023252/cmslpc/uscms_data/d3/clucas/SUSYv7/charmStudy/include/analysisPlots.hh",
+		"/var/folders/pb/ttk196w94hb2r4htj5r5djjc0000gn/T/sublime-sftp-browse-1386795526/cmslpc/uscms_data/d3/clucas/SUSYv7/charmStudy/python/charm_processes.py",
+		"/var/folders/pb/ttk196w94hb2r4htj5r5djjc0000gn/T/sublime-sftp-browse-1387233759/cmslpc/uscms_data/d3/clucas/SUSYv7/charmStudy/python/addprocesses.py",
+		"/var/folders/pb/ttk196w94hb2r4htj5r5djjc0000gn/T/sublime-sftp-browse-1386177537/cmslpc/uscms_data/d3/clucas/SUSYv7/charmStudy/python/addprocesses.py",
+		"/Users/chrislucas/Desktop/runAnalysis.py_278226_9.log",
+		"/Users/chrislucas/SUSY/charmStudy/ANALYSIS/anaPlots/xSec.py",
+		"/Users/chrislucas/SUSY/charmStudy/ANALYSIS/rootfiles/bTagEff_Study/outQCD_bTagEff.root",
+		"/Users/chrislucas/Library/Application Support/MultiBit/multibit.key",
+		"/var/folders/pb/ttk196w94hb2r4htj5r5djjc0000gn/T/sublime-sftp-browse-1386629811/cmslpc/uscms_data/d3/clucas/SUSYvLegacy/hadronic/python/Mark_Tutorial_Code/calculate_lumi.py",
+		"/var/folders/pb/ttk196w94hb2r4htj5r5djjc0000gn/T/sublime-sftp-browse-1386165222/cmslpc/uscms_data/d3/clucas/SUSYv7/hadronic/python/Mark_Tutorial_Code/sample_lists.py",
+		"/var/folders/pb/ttk196w94hb2r4htj5r5djjc0000gn/T/sublime-sftp-browse-1382693649/cmslpc/uscms_data/d3/clucas/SUSYv7/framework/python/icf/core.py",
+		"/var/folders/pb/ttk196w94hb2r4htj5r5djjc0000gn/T/sublime-sftp-browse-1381838771/cmslpc/uscms_data/d3/clucas/SUSYv7/charmStudy/src/common/isoTrackPlots.cc",
+		"/var/folders/pb/ttk196w94hb2r4htj5r5djjc0000gn/T/sublime-sftp-browse-1382696145/cmslpc/uscms_data/d3/clucas/SUSYv7/framework/src/common/Manager.cc",
+		"/var/folders/pb/ttk196w94hb2r4htj5r5djjc0000gn/T/sublime-sftp-browse-1382451108/cauder/home/cl7359/student/tutorial/sig1d.cpp",
+		"/var/folders/pb/ttk196w94hb2r4htj5r5djjc0000gn/T/sublime-sftp-browse-1382450900/cauder/home/cl7359/student/tutorial/Sig1DFcn.h",
+		"/var/folders/pb/ttk196w94hb2r4htj5r5djjc0000gn/T/sublime-sftp-browse-1382293043/cmslpc/uscms_data/d3/clucas/SUSYv7/onelepton/src/common/LeptonicOps.cc"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"",
+			"analysisPlots"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"tile_size",
+			"dicto",
+			".py",
+			"-rw-r--r--+ 1 clucas cms0 317K Sep 23 16:36 SUSYSignalScan/",
+			"/pnfs/hep.ph.ic.ac.uk/data/cms/store/user/",
+			"stopVect_weight",
+			"print",
+			"model = model, cutTree = cutTree,\n                         cut = upperCut if upper else lowerCut,\n                         label = label+\"%d%s\"%(lower, \"_%d\"%upper if upper else \"\"),MChiCut = extra, SITV = sitv,\n                         bTagIndex = bTagIndex",
+			"True if model == \"pmssm\" else False",
+			"pmssm = True if model == \"pmssm\" else False",
+			"in model",
+			"isoTrackVeto",
+			"agIndex",
+			"pset2",
+			"H_event_",
+			"noweight",
+			"weight",
+			"M0",
+			"smsPlottingOps",
+			"SMSPLOTTINGOPS",
+			"iterations",
+			"smooth_err_vs_noerr_diff",
+			"smooth_eff_err_diff",
+			"nocuts",
+			"bin",
+			"m0_m12_mChi_weight",
+			"cutsJESNegHist",
+			"m0_m12_mChi_weight",
+			"cutsJESPlusHist",
+			"cutsHist",
+			"nocuts",
+			"errs",
+			"syst_smooth",
+			"smooth_eff",
+			"xbin+xtmp, ybin+xtmp*5",
+			"syst_smooth",
+			"my_syst_hists[0]",
+			"print",
+			"my_syst_hists[0][0]",
+			"total_syst_hist",
+			"my_syst_hists[0]",
+			"emap",
+			"s_hist",
+			"emap._hist",
+			"syst_smooth",
+			"iter",
+			"map",
+			"this_syst",
+			"debug_err",
+			"_errorHist",
+			"errorHist",
+			"()\n",
+			"_errorHist",
+			"0.75",
+			"0.1",
+			"rebinY",
+			"compare_1d_dm10",
+			"05",
+			"SetTopMargin",
+			"SetBorderSize",
+			"0.02",
+			"SetTopMargin",
+			"SetRightMargin",
+			"p2",
+			"p1",
+			"1d",
+			"1",
+			"versions[settings['model2']]",
+			"versions[settings['model1']]",
+			"set_palette",
+			"plane",
+			"effs",
+			"model",
+			"infiles1",
+			"infiles",
+			"sitv_",
+			"files",
+			"centralRootFile73",
+			"centralRootFile87",
+			"rebin_y_val",
+			"deltaM",
+			"threeToTwo",
+			"getRootDirs",
+			"GetHist",
+			"gGeneric",
+			"sms_ISR_Systs",
+			"deltaM",
+			"delta",
+			"0",
+			"GetBinLowEdge",
+			"really",
+			"settings[\"version\"]",
+			"version",
+			"settings['version']",
+			"settings[\"version\"]",
+			"acc_cvRel_m0_m12",
+			"H_M0_M12_noweight_tmp",
+			"noweight",
+			"['smsScan_eq0b_le3j_SITV_AlphaT0.55_375_475', 'smsScan_eq0b_le3j_SITV_AlphaT0.55_475_575', 'smsScan_eq0b_le3j_SITV_AlphaT0.55_575_675', 'smsScan_eq0b_le3j_SITV_AlphaT0.55_675_775', 'smsScan_eq0b_le3j_SITV_AlphaT0.55_775_875', 'smsScan_eq0b_le3j_SITV_AlphaT0.55_875_975', 'smsScan_eq0b_le3j_SITV_AlphaT0.55_975_1075', 'smsScan_eq0b_le3j_SITV_AlphaT0.55_1075']",
+			"sutils.",
+			"['smsScan_eq0b_le3j_SITV_AlphaT0.55_375_475', 'smsScan_eq0b_le3j_SITV_AlphaT0.55_475_575', 'smsScan_eq0b_le3j_SITV_AlphaT0.55_575_675', 'smsScan_eq0b_le3j_SITV_AlphaT0.55_675_775', 'smsScan_eq0b_le3j_SITV_AlphaT0.55_775_875', 'smsScan_eq0b_le3j_SITV_AlphaT0.55_875_975', 'smsScan_eq0b_le3j_SITV_AlphaT0.55_975_1075', 'smsScan_eq0b_le3j_SITV_AlphaT0.55_1075']",
+			"def threeToTwo(h3) :\n    name = h3.GetName()\n    h2 = r.TH2D(name+\"_2D\",h3.GetTitle(),\n                h3.GetNbinsX(), h3.GetXaxis().GetXmin(), h3.GetXaxis().GetXmax(),\n                h3.GetNbinsY(), h3.GetYaxis().GetXmin(), h3.GetYaxis().GetXmax(),\n                )\n    for iX in range(1, 1+h3.GetNbinsX()) :\n        for iY in range(1, 1+h3.GetNbinsY()) :\n            content = h3.GetBinContent(iX, iY, 1) + h3.GetBinContent(iX, iY, 2)+ h3.GetBinContent(iX, iY, 0)\n            h2.SetBinContent(iX, iY, content)\n    h2.GetZaxis().SetTitle(h3.GetZaxis().GetTitle())\n    \n    return h2\n",
+			"def threeToTwo(h3) :\n    name = h3.GetName()\n    binsz = h3.GetNbinsZ()\n    h2 = r.TH2D(name+\"_2D\",h3.GetTitle(),\n                h3.GetNbinsX(), h3.GetXaxis().GetXmin(), h3.GetXaxis().GetXmax(),\n                h3.GetNbinsY(), h3.GetYaxis().GetXmin(), h3.GetYaxis().GetXmax(),\n                )\n    for iX in range(1, 1+h3.GetNbinsX()) :\n        for iY in range(1, 1+h3.GetNbinsY()) :\n            content = h3.GetBinContent(iX, iY, 1) + h3.GetBinContent(iX, iY, 2)+ h3.GetBinContent(iX, iY, 0)\n            h2.SetBinContent(iX, iY, content)\n    h2.GetZaxis().SetTitle(h3.GetZaxis().GetTitle())\n    \n    return h2\n",
+			"def threeToTwo(h3):\n    name = h3.GetName()\n    h2 = r.TH2D(name+\"_2D\", h3.GetTitle(),\n                h3.GetNbinsX(), h3.GetXaxis().GetXmin(), h3.GetXaxis().GetXmax(),\n                h3.GetNbinsY(), h3.GetYaxis().GetXmin(), h3.GetYaxis().GetXmax(),\n                )\n    for iX in range(1, 1+h3.GetNbinsX()):\n        for iY in range(1, 1+h3.GetNbinsY()):\n            content = h3.GetBinContent(iX, iY, 1) + h3.GetBinContent(iX, iY, 2) + h3.GetBinContent(iX, iY, 0)\n            h2.SetBinContent(iX, iY, content)\n    h2.GetZaxis().SetTitle(h3.GetZaxis().GetTitle())\n\n    return h2",
+			"def threeToTwo(h3) :\n    name = h3.GetName()\n    binsz = h3.GetNbinsZ()\n\n    h2 = r.TH2D(name+\"_2D\",h3.GetTitle(),\n                h3.GetNbinsX(), h3.GetXaxis().GetXmin(), h3.GetXaxis().GetXmax(),\n                h3.GetNbinsY(), h3.GetYaxis().GetXmin(), h3.GetYaxis().GetXmax(),\n                )\n                \n    for iX in range(1, 1+h3.GetNbinsX()) :\n        for iY in range(1, 1+h3.GetNbinsY()) :\n            content = h3.GetBinContent(iX, iY, 1) + h3.GetBinContent(iX, iY, 2)+ h3.GetBinContent(iX, iY, 0)\n            h2.SetBinContent(iX, iY, content)\n    h2.GetZaxis().SetTitle(h3.GetZaxis().GetTitle())\n    \n    return h2",
+			"sutils.GetHist(File=file73, folder=getRootDirs(bMulti_ = bMulti, jMulti_ = jMulti, sitv_ = sitv)[0:2], hist=\"m0_m12_mChi_noweight\", Norm=None, rebinY=rebin_y_val).Clone()",
+			"_hist",
+			"compare_1d",
+			"GetBinCenter",
+			"compare_map",
+			"version",
+			"settings[\"model\"]",
+			"versions",
+			"raw_eff",
+			"sitv_eff",
+			"make_sitv_eff_map_plot",
+			"sitv",
+			"sitv_eff",
+			"make_sitv_eff_map_plot",
+			"centralRootFile",
+			"{nb_label}_{nj_label}_NoAlphaT_",
+			",",
+			"/SMS",
+			"name.GetName()",
+			"file",
+			"htemp",
+			"name",
+			"ls()"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"\\n",
+			"",
+			"/uscms_data/d3/clucas/SUSYv7/charmStudy/python/T2cc_200_190/AK5Calo_sig_T2cc_full_muon_2012_100",
+			"/uscms_data/d3/clucas/SUSYv7/charmStudy/python/T2cc_200_120/AK5Calo_sig_T2cc_full_muon_2012_100",
+			"\\t\"AK5Calo",
+			".root\",",
+			"PSet",
+			"\\t\"AK5Calo",
+			"ma",
+			"_",
+			"\\msplit",
+			"\\alphaT",
+			"jet",
+			"igen",
+			"=",
+			"hD",
+			"inc",
+			"ge4j",
+			"sSamp",
+			"conf.switches",
+			"modSwitches()",
+			"cha.modSwitches",
+			".root\"%inDir,",
+			"Charm",
+			".root\",",
+			":\\n",
+			"'dcap://cmsdca.fnal.gov:24137/pnfs/fnal.gov/usr/cms/WAX/11",
+			"cms/WAX/11/store/user/lpcsusyra1/clucas/charmStudy/Scans/T2cc/mSQ_220_mLSP_145-195_v2/clucas/SMS-T2cc_mSquark-220_mLSP-145-195_8TeV-Pythia6Z_clucas_v3/SMS-T2cc_mSquark-220_mLSP-145-195_8TeV-Pythia6Z_clucas_v3/30d416a648a359e8b7f67df0bc7170fc/T2cc",
+			"val",
+			"le3j",
+			"ge4j",
+			"le3j_",
+			"0.",
+			"\"inc_",
+			"'dcap://cmsdca.fnal.gov:24137/pnfs/fnal.gov/usr/cms/WAX/11/store/user/lpcsusyra1/clucas/charmStudy/Scans/T2cc/mSQ_225_mLSP_190_v1/T2cc",
+			".root',",
+			"mcScale",
+			"T2cc (300,250)",
+			"dataHist",
+			"ge4j",
+			"T2tt",
+			"T2bb",
+			"T2",
+			"T1",
+			"limitRatio.pdf",
+			"1000005",
+			"gEmpty",
+			"\"dcap://cmsdca.fnal.gov:24137/pnfs/fnal.gov/usr/cms/WAX/11/store/user/lpcsusyra1/clucas/charmStudy/Scans/T2cc/mSQ_160_mLSP_110_v2/nTuples/SusyCAF",
+			"\"dcap://cmsdca.fnal.gov:24137/pnfs/fnal.gov/usr/cms/",
+			".root\",",
+			"/cms/WAX/11/store/user/lpcsusyra1/clucas/charmStudy/Scans/T2cc/mSQ_300_mLSP_250/T2cc",
+			"\"dcap",
+			".root\",",
+			"dcap://cmsdca.fnal.gov:24137/pnfs/fnal.gov/usr/cms",
+			"cms/WAX/11/store/user/lpcsusyra1/clucas/charmStudy/Scans/T2cc/mSQ_160_mLSP_110_v2/clucas/SMS-T2cc_mSquark-160_mLSP-110_8TeV-Pythia6Z_clucas_v2/SMS-T2cc_mSquark-160_mLSP-110_8TeV-Pythia6Z_clucas_v2/30d416a648a359e8b7f67df0bc7170fc/T2cc",
+			"analysisPlots",
+			"",
+			"XXX import *",
+			"(*igen)",
+			"upperCutVal",
+			"charmEffStudy",
+			"le3j",
+			"HCP_09Oct_FitProbStudy",
+			"BadLaserFilter",
+			"om_PU",
+			"1, 0, 1, true",
+			"10, 0, 9, true",
+			"rate",
+			"cen",
+			"fwd",
+			"tau",
+			"distro",
+			".root\",",
+			"0to5",
+			"1000to1400",
+			"120to170",
+			"1400to1800",
+			"15to30",
+			"170to300",
+			"1800",
+			"300to470",
+			"30to50",
+			"470to600",
+			"50to80",
+			"5to15",
+			"600to800",
+			"800to1000",
+			"EG",
+			"cenpTauJets",
+			"100,",
+			"nonIso",
+			"Tau",
+			"lumis.size()",
+			"",
+			"ge4j",
+			"HLTHT",
+			"63",
+			"combEG",
+			"rate",
+			"inFile->GetObject(\"up_",
+			"Tau",
+			"isoEm",
+			"255",
+			"nonIsoTau",
+			"isoTau",
+			"iso",
+			"246,",
+			"from montecarlo.Summer12.FNAL.ICHEP.QCD_Pt",
+			"246 import *",
+			"XXX,\\n",
+			".root',",
+			"'dcap:",
+			"dcap://cmsdca.fnal.gov:24137/pnfs/fnal.gov/usr/cms/WAX",
+			"cms/WAX/11/store/user/lpcsusyra1/clucas/charmStudy/Scans/T2cc/mSQ_160_mLSP_110/clucas/SMS-T2cc_mSquark-160_mLSP-110_8TeV-Pythia6Z_clucas/SMS-T2cc_mSquark-160_mLSP-110_8TeV-Pythia6Z_clucas/30d416a648a359e8b7f67df0bc7170fc/T2cc",
+			"100",
+			"50",
+			"HT875",
+			"HT775",
+			"HT675",
+			"HT575",
+			"Nom",
+			"',\\n'",
+			"Nom",
+			"HT875",
+			"HT775",
+			"HT675",
+			"HT575",
+			"HT875"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "utils.py",
+					"settings":
+					{
+						"buffer_size": 1144,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"incomplete_sync": null,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E111",
+								"E501",
+								"E221",
+								"E701",
+								"E121"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"remote_loading": false,
+							"sublimelinter": false,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"synced": false,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "mortgage.py",
+					"settings":
+					{
+						"buffer_size": 66,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								66,
+								66
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"incomplete_sync": null,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E111",
+								"E501",
+								"E221",
+								"E701",
+								"E121"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"remote_loading": false,
+							"sublimelinter": false,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"synced": false,
+							"syntax": "Packages/Python/Python.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 106.0
+	},
+	"output.git":
+	{
+		"height": 100.0
+	},
+	"output.sftp":
+	{
+		"height": 122.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"unti",
+				"untitled"
+			],
+			[
+				"runs",
+				"runSysts.py"
+			],
+			[
+				"smoot",
+				"dev/smooth_algo_test.py"
+			],
+			[
+				"smoo",
+				"dev/smooth_algo_test.py"
+			],
+			[
+				"make",
+				"makeEffMap.py"
+			],
+			[
+				"eff",
+				"eff_compare.py"
+			],
+			[
+				"signa",
+				"signalUtils.py"
+			],
+			[
+				"runst",
+				"runSysts.py"
+			],
+			[
+				"deta",
+				"plotDetails.py"
+			],
+			[
+				"run",
+				"run_syst_mapping.py"
+			],
+			[
+				"makee",
+				"makeEffMap.py"
+			],
+			[
+				"ef",
+				"makeEffMap.py"
+			],
+			[
+				"config",
+				"anaPlots/configuration.py"
+			],
+			[
+				"confi",
+				"anaPlots/configuration.py"
+			],
+			[
+				"gener",
+				"pyRootUtils/generalUtils.py"
+			],
+			[
+				"g",
+				"pyRootUtils/generalUtils.py"
+			],
+			[
+				"coni",
+				"anaPlots/configuration.py"
+			],
+			[
+				"fil",
+				"/var/folders/pb/ttk196w94hb2r4htj5r5djjc0000gn/T/sublime-sftp-browse-1386941617/cmslpc/uscms_data/d3/clucas/SUSYv7/framework/include/Filters.hh"
+			],
+			[
+				"sampl",
+				"/var/folders/pb/ttk196w94hb2r4htj5r5djjc0000gn/T/sublime-sftp-browse-1389705046/cmslpc/uscms_data/d3/clucas/SUSYv7/charmStudy/python/samples.py"
+			],
+			[
+				"multi",
+				"anaPlots/utils/multiPlot.py"
+			],
+			[
+				"ana",
+				"ICFCode/src/common/analysisPlots.cc"
+			],
+			[
+				"configu",
+				"anaPlots/configuration.py"
+			],
+			[
+				"",
+				"/Users/chrislucas/SUSY/Parked/xSec_study/xs.py"
+			],
+			[
+				"configi",
+				"anaPlots/configuration.py"
+			],
+			[
+				"con",
+				"anaPlots/configuration.py"
+			],
+			[
+				"xs.",
+				"/Users/chrislucas/SUSY/Parked/xSec_study/xs.py"
+			],
+			[
+				"xs",
+				"anaPlots/xSec.py"
+			],
+			[
+				"gene",
+				"pyRootUtils/generalUtils.py"
+			],
+			[
+				"conf",
+				"anaPlots/configuration.py"
+			],
+			[
+				"gne",
+				"pyRootUtils/generalUtils.py"
+			],
+			[
+				"ger",
+				"rootfiles/bTagEff_Study/outQCD_bTagEff.root"
+			],
+			[
+				"gen",
+				"pyRootUtils/generalUtils.py"
+			],
+			[
+				"analys",
+				"/var/folders/pb/ttk196w94hb2r4htj5r5djjc0000gn/T/sublime-sftp-browse-1386068270/cmslpc/uscms_data/d3/clucas/SUSYv7/charmStudy/src/common/analysisPlots.cc"
+			],
+			[
+				"sample",
+				"/var/folders/pb/ttk196w94hb2r4htj5r5djjc0000gn/T/sublime-sftp-browse-1382351054/cmslpc/uscms_data/d3/clucas/SUSYv7/charmStudy/python/samples.py"
+			],
+			[
+				"co",
+				"anaPlots/configuration.py"
+			],
+			[
+				"gner",
+				"pyRootUtils/generalUtils.py"
+			],
+			[
+				"cnf",
+				"anaPlots/configuration.py"
+			],
+			[
+				"bath",
+				"/var/folders/pb/ttk196w94hb2r4htj5r5djjc0000gn/T/sublime-sftp-browse-1382292164/cmslpc/uscms_data/d3/clucas/SUSYv7/charmStudy/python/batchGolden.py"
+			],
+			[
+				"runa",
+				"/var/folders/pb/ttk196w94hb2r4htj5r5djjc0000gn/T/sublime-sftp-browse-1382292175/cmslpc/uscms_data/d3/clucas/SUSYv7/charmStudy/python/runAnalysis.py"
+			],
+			[
+				"sitv",
+				"anaPlots/utils/SITVYields.py"
+			],
+			[
+				"sit",
+				"anaPlots/utils/SITVYields.py"
+			],
+			[
+				"isocc",
+				"/var/folders/pb/ttk196w94hb2r4htj5r5djjc0000gn/T/sublime-sftp-browse-1381838771/cmslpc/uscms_data/d3/clucas/SUSYv7/charmStudy/src/common/isoTrackPlots.cc"
+			],
+			[
+				"charm",
+				"anaPlots/charm.py"
+			],
+			[
+				"isotrackcc",
+				"/var/folders/pb/ttk196w94hb2r4htj5r5djjc0000gn/T/sublime-sftp-browse-1381838771/cmslpc/uscms_data/d3/clucas/SUSYv7/charmStudy/src/common/isoTrackPlots.cc"
+			],
+			[
+				"isotrcc",
+				"/var/folders/pb/ttk196w94hb2r4htj5r5djjc0000gn/T/sublime-sftp-browse-1381838771/cmslpc/uscms_data/d3/clucas/SUSYv7/charmStudy/src/common/isoTrackPlots.cc"
+			],
+			[
+				"batch",
+				"/var/folders/pb/ttk196w94hb2r4htj5r5djjc0000gn/T/sublime-sftp-browse-1381415716/cmslpc/uscms_data/d3/clucas/SUSYv7/charmStudy/python/batchGolden.py"
+			],
+			[
+				"ge",
+				"pyRootUtils/generalUtils.py"
+			],
+			[
+				"iso",
+				"ICFCode/include/isoTrackPlots.hh"
+			],
+			[
+				"runan",
+				"/var/folders/pb/ttk196w94hb2r4htj5r5djjc0000gn/T/sublime-sftp-browse-1376907063/cmslpc/uscms_data/d3/clucas/SUSYv7/charmStudy/python/runAnalysis.py"
+			],
+			[
+				"si",
+				"anaPlots/utils/SITVYields.py"
+			],
+			[
+				"batc",
+				"/var/folders/pb/ttk196w94hb2r4htj5r5djjc0000gn/T/sublime-sftp-browse-1377180436/cmslpc/uscms_data/d3/clucas/SUSYv7/charmStudy/python/batchGolden.py"
+			],
+			[
+				"sam",
+				"/var/folders/pb/ttk196w94hb2r4htj5r5djjc0000gn/T/sublime-sftp-browse-1376316828/cmslpc/uscms_data/d3/clucas/SUSYv7/charmStudy/python/samples.py"
+			],
+			[
+				"gnere",
+				"rootfiles/bTagEff_Study/outT2cc_NoFilter_ISRRW_bTagEff.root"
+			],
+			[
+				"sft",
+				"rootfiles/bTagEff_Study/outT2cc_NoFilter_ISRRW_bTagEff.root"
+			],
+			[
+				"common",
+				"/var/folders/pb/ttk196w94hb2r4htj5r5djjc0000gn/T/sublime-sftp-browse-1377774846/cmslpc/uscms_data/d3/clucas/SUSYv7/framework/src/common/CommonOps.cc"
+			],
+			[
+				"tutor",
+				"/var/folders/pb/ttk196w94hb2r4htj5r5djjc0000gn/T/sublime-sftp-browse-1377086289/cmslpc/uscms_data/d3/clucas/SUSYv7/hadronic/python/Mark_Tutorial_Code/batchGolden_tutorial.py"
+			],
+			[
+				"samples",
+				"/var/folders/pb/ttk196w94hb2r4htj5r5djjc0000gn/T/sublime-sftp-browse-1376316828/cmslpc/uscms_data/d3/clucas/SUSYv7/charmStudy/python/samples.py"
+			],
+			[
+				"tutori",
+				"/var/folders/pb/ttk196w94hb2r4htj5r5djjc0000gn/T/sublime-sftp-browse-1376663447/cmslpc/uscms_data/d3/clucas/SUSYv7/hadronic/python/Mark_Tutorial_Code/batchGolden_tutorial.py"
+			],
+			[
+				"bat",
+				"ICFCode/python/batchGolden.py"
+			],
+			[
+				"mcsub",
+				"/var/folders/pb/ttk196w94hb2r4htj5r5djjc0000gn/T/sublime-sftp-browse-1376491060/cmslpc/uscms_data/d3/clucas/SUSYv7/submitPackage/python/mcSubmit.py"
+			],
+			[
+				"sub",
+				"ICFCode/python/dataSubmit.py"
+			],
+			[
+				"genr",
+				"pyRootUtils/generalUtils.py"
+			],
+			[
+				"samp",
+				"/var/folders/pb/ttk196w94hb2r4htj5r5djjc0000gn/T/sublime-sftp-browse-1374051644/cmslpc/uscms_data/d3/clucas/SUSYv7/charmStudy/python/samples.py"
+			],
+			[
+				"genre",
+				"rootfiles/bTagEff_Study/outT2cc_NoFilter_ISRRW_bTagEff.root"
+			],
+			[
+				"cn",
+				"anaPlots/configuration.py"
+			],
+			[
+				"runana",
+				"/var/folders/pb/ttk196w94hb2r4htj5r5djjc0000gn/T/sublime-sftp-browse-1370009973/cmslpc/uscms_data/d3/clucas/SUSYv7/charmStudy/python/runAnalysis.py"
+			],
+			[
+				"tabl",
+				"anaPlots/tables.py"
+			],
+			[
+				"cnfi",
+				"anaPlots/configuration.py"
+			],
+			[
+				"ta",
+				"rootfiles/anaPlots_225/outT2cc_anaPlots.root"
+			],
+			[
+				"uti",
+				"pyRootUtils/generalUtils.py"
+			],
+			[
+				"util",
+				"pyRootUtils/generalUtils.py"
+			],
+			[
+				"isotrackplots.cc",
+				"/var/folders/pb/ttk196w94hb2r4htj5r5djjc0000gn/T/sublime-sftp-browse-1370267726/cmslpc/uscms_data/d3/clucas/SUSYv7/charmStudy/src/common/isoTrackPlots.cc"
+			],
+			[
+				"qcd",
+				"anaPlots/utils/qcdTest.py"
+			],
+			[
+				"table",
+				"anaPlots/tables.py"
+			],
+			[
+				"c",
+				"anaPlots/configuration.py"
+			],
+			[
+				"batchgo",
+				"/var/folders/pb/ttk196w94hb2r4htj5r5djjc0000gn/T/sublime-sftp-browse-1370009995/cmslpc/uscms_data/d3/clucas/SUSYv7/charmStudy/python/batchGolden.py"
+			],
+			[
+				"tab",
+				"anaPlots/tables.py"
+			],
+			[
+				"yiel",
+				"anaPlots/utils/yieldDivide.py"
+			],
+			[
+				"yield",
+				"anaPlots/utils/yieldDivide.py"
+			],
+			[
+				"yie",
+				"anaPlots/utils/yieldFracs.py"
+			],
+			[
+				"analy",
+				"/var/folders/pb/ttk196w94hb2r4htj5r5djjc0000gn/T/sublime-sftp-browse-1368778330/cmslpc/uscms_data/d3/clucas/SUSYv7/charmStudy/src/common/analysisPlots.cc"
+			],
+			[
+				"lept",
+				"/var/folders/pb/ttk196w94hb2r4htj5r5djjc0000gn/T/sublime-sftp-browse-1368778444/cmslpc/uscms_data/d3/clucas/SUSYv7/onelepton/src/common/LeptonicOps.cc"
+			],
+			[
+				"lep",
+				"/var/folders/pb/ttk196w94hb2r4htj5r5djjc0000gn/T/sublime-sftp-browse-1368778444/cmslpc/uscms_data/d3/clucas/SUSYv7/onelepton/src/common/LeptonicOps.cc"
+			],
+			[
+				"analysis",
+				"/var/folders/pb/ttk196w94hb2r4htj5r5djjc0000gn/T/sublime-sftp-browse-1368778330/cmslpc/uscms_data/d3/clucas/SUSYv7/charmStudy/src/common/analysisPlots.cc"
+			],
+			[
+				"icf",
+				"/var/folders/5y/snqr157d0w3gcp7ypksth25w0000gp/T/sublime-sftp-browse-1367912829/cmslpc/uscms_data/d3/clucas/SUSYv6/framework/include/ICF_NtupleData.hh"
+			],
+			[
+				"com",
+				"/var/folders/5y/snqr157d0w3gcp7ypksth25w0000gp/T/sublime-sftp-browse-1367592078/cmslpc/uscms_data/d3/clucas/SUSYv6/framework/src/common/CommonOps.cc"
+			],
+			[
+				"filt",
+				"rootfiles/anaPlots_225/outT2cc_NoFilter_ISRRW13_delta10_anaPlots.root"
+			],
+			[
+				"b",
+				"/var/folders/5y/snqr157d0w3gcp7ypksth25w0000gp/T/sublime-sftp-browse-1367510866/cmslpc/uscms_data/d3/clucas/SUSYv6/charmStudy/python/batchGolden.py"
+			],
+			[
+				"comm",
+				"/var/folders/5y/snqr157d0w3gcp7ypksth25w0000gp/T/sublime-sftp-browse-1367592078/cmslpc/uscms_data/d3/clucas/SUSYv6/framework/src/common/CommonOps.cc"
+			],
+			[
+				"filter",
+				"/var/folders/5y/snqr157d0w3gcp7ypksth25w0000gp/T/sublime-sftp-browse-1367580994/cmslpc/uscms_data/d3/clucas/SUSYv6/framework/include/Filters.hh"
+			],
+			[
+				"ba",
+				"/var/folders/5y/snqr157d0w3gcp7ypksth25w0000gp/T/sublime-sftp-browse-1367510866/cmslpc/uscms_data/d3/clucas/SUSYv6/charmStudy/python/batchGolden.py"
+			],
+			[
+				"data",
+				"ICFCode/python/dataSubmit.py"
+			],
+			[
+				"baty",
+				"/var/folders/5y/snqr157d0w3gcp7ypksth25w0000gp/T/sublime-sftp-browse-1367510866/cmslpc/uscms_data/d3/clucas/SUSYv6/charmStudy/python/batchGolden.py"
+			],
+			[
+				"batchg",
+				"/var/folders/5y/snqr157d0w3gcp7ypksth25w0000gp/T/sublime-sftp-browse-1366361405/cmslpc/uscms_data/d3/clucas/SUSYv5/charmStudy/python/batchGolden.py"
+			],
+			[
+				"had",
+				"ICFCode/python/haddMC.py"
+			],
+			[
+				"char",
+				"anaPlots/charm.py"
+			],
+			[
+				"utils",
+				"pyRootUtils/generalUtils.py"
+			],
+			[
+				"mak",
+				"anaPlots/makeAnaPlots.py"
+			],
+			[
+				"ver",
+				"anaPlots/utils/vertexPlots.py"
+			],
+			[
+				"bt",
+				"anaPlots/bTagPlots.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/chrislucas/SUSY/stats_code/ra1stats.sublime-project"
+			],
+			[
+				"c",
+				"/Users/chrislucas/SUSY/charmStudy/Charming.sublime-project"
+			],
+			[
+				"a",
+				"/Users/chrislucas/SUSY/AnalysisCode/AnaRA1.sublime-project"
+			],
+			[
+				"s",
+				"/Users/cl7359/SUSY/SignalScans/effStudies/sigEffs.sublime-project"
+			],
+			[
+				"sig",
+				"/Users/cl7359/SUSY/SignalScans/effStudies/sigEffs.sublime-project"
+			],
+			[
+				"si",
+				"/Users/cl7359/SUSY/SignalScans/effStudies/sigEffs.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": false,
+	"side_bar_visible": true,
+	"side_bar_width": 197.0,
+	"status_bar_visible": true
+}
