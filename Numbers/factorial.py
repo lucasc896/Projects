@@ -10,12 +10,6 @@ if __name__ == "__main__":
     
     utils.splash("Factorial calc")
     
-    n = None
-    while not n:
-        try:
-            n = int(raw_input("n:"))
-        except ValueError:
-            print "Silly. Enter an int."
-            n = None
+    n = utils.get_val_of_type("int", "n:")
     
     print "%d! = %d" % (n, factorial(n))
