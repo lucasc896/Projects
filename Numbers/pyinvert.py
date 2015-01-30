@@ -2,6 +2,13 @@ import math as ma
 from random import random as ra
 from sys import argv
 
+#################################################
+#     Program to analytically invert an         #
+#                   nxn matrix                  #
+#                  Chris  Lucas                 #
+#                                               #
+#################################################
+
 def determinant(matrix = [[]], it = 0):
     
     dim = len(matrix)
