@@ -6,7 +6,6 @@ from sys import argv
 #     Program to analytically invert an         #
 #                   nxn matrix                  #
 #                  Chris  Lucas                 #
-#                                               #
 #################################################
 
 def determinant(matrix = [[]], it = 0):
@@ -22,6 +21,10 @@ def determinant(matrix = [[]], it = 0):
         
         sub_matrix = []
 
+        # check if element is zero
+        if matrix[0][top_i] == 0:
+            return 0
+
         # loop over original matrix, ignoring first row
         # row
         for i in range(1,dim):
@@ -35,11 +38,13 @@ def determinant(matrix = [[]], it = 0):
                     this_row.append(matrix[i][j])
             sub_matrix.append(this_row)
 
+        # get pos/neg factor
         if(top_i%2 == 0):
             suf_mult = 1
         else:
             suf_mult = -1
 
+        # sum the determinants
         det += suf_mult * matrix[0][top_i] * determinant(sub_matrix, it+1)
 
     return det
