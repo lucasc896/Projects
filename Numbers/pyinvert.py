@@ -115,20 +115,20 @@ def main():
 
     det = determinant(my_matrix, it = 0, verb = options.verb)
 
-    print "\nDeterminant = %d" % det
+    print "\n> Determinant = %d\n" % det
 
     if det == 0:
         exit()
 
     trans_matrix = transpose(my_matrix)
 
-    print_matrix(trans_matrix)
     for i in range(dim):
         for j in range(dim):
             trans_matrix[i][j] = (1./det)*trans_matrix[i][j]
 
-    print "\n> Inverted matrix:"
+    print "> Inverted matrix:"
     print_matrix(trans_matrix)
+    print ""
 
 if __name__ == "__main__":
     main()
