@@ -2,6 +2,7 @@ import math as ma
 from random import random as ra
 from optparse import OptionParser
 from sys import exit
+from copy import deepcopy
 
 ###############################################
 #     Program to analytically invert an       #
@@ -54,6 +55,17 @@ def determinant(matrix = [[]], it = 0, verb = False):
 
     return det
 
+def transpose(matrix = [[]]):
+
+    dim = len(matrix)
+    trans_matrix = deepcopy(matrix)
+
+    for i in range(dim):
+        for j in range(dim):
+            trans_matrix[i][j] = matrix[j][i]
+
+    return trans_matrix
+
 def rand_int():
     return int(ma.floor(ra()*10))
 
@@ -101,7 +113,22 @@ def main():
     print "\nMatrix:"
     print_matrix(my_matrix)
 
-    print "\nDeterminant = %d" % determinant(my_matrix, it = 0, verb = options.verb)
+    det = determinant(my_matrix, it = 0, verb = options.verb)
+
+    print "\nDeterminant = %d" % det
+
+    if det == 0:
+        exit()
+
+    trans_matrix = transpose(my_matrix)
+
+    print_matrix(trans_matrix)
+    for i in range(dim):
+        for j in range(dim):
+            trans_matrix[i][j] = (1./det)*trans_matrix[i][j]
+
+    print "\n> Inverted matrix:"
+    print_matrix(trans_matrix)
 
 if __name__ == "__main__":
     main()
