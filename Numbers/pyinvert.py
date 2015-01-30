@@ -57,7 +57,7 @@ def print_matrix(matrix = [[]], para = 0):
         line = ""
         for j in range(len(matrix[i])):
             line += str(matrix[i][j]) + " "
-        print "\t"*para, line
+        print "%s%s" % ("\t"*para, line)
 
 def main():
     
